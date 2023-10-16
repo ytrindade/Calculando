@@ -1,0 +1,13 @@
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\bin\Debug\Projeto Calculando.exe.config
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\bin\Debug\Projeto Calculando.exe
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\bin\Debug\Projeto Calculando.pdb
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto Calculando.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto_Calculando.Operacoes.resources
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto_Calculando.TelaInicial.resources
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto_Calculando.Properties.Resources.resources
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto Calculando.csproj.GenerateResource.cache
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto Calculando.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto Calculando.exe
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto Calculando.pdb
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto_Calculando.Opcoes.resources
+C:\Users\OEM\source\repos\Projeto Calculando\Projeto Calculando\obj\Debug\Projeto_Calculando.Nivel.resources
